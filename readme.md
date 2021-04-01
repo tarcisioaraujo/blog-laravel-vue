@@ -1,6 +1,6 @@
 # Blog
 
-Aplicação blog desenvolvida utilizando Laravel e VueJS
+Aplicação blog desenvolvida utilizando Laravel 5.5 e VueJS 2
 
 ## Começando
 
@@ -11,11 +11,21 @@ Essas instruções fornecerão uma cópia do projeto instalado e funcionando em 
 O que você precisar instalar para rodar a aplicação
 
 ```
-Composer
-Node.js
+PHP 7.1.8 - 7.4.16
+Composer >= 1.4.2
+Node >= 8.6.0
+```
+## Configuração do php
+
+```
+# Habilitar os recursos no php.ini
+extension=mbstring
+extension=openssl
+extension=pdo_sqlite
+extension_dir = "ext"
 ```
 
-## Instalação
+## Instalação da aplicação
 
 Passos para rodar a aplicação
 
@@ -26,7 +36,7 @@ git clone https://github.com/tarcisioaraujo/blog-laravel-vue.git
 # Acessar o diretório
 cd blog-laravel-vue
 
-# Instalar as dependências do Composer (leva alguns minutos ☕)
+# Instalar e atualizar as dependências do Composer (leva alguns minutos ☕)
 composer install
 composer update
 
@@ -65,11 +75,4 @@ Usuário de teste
 ```
 E-mail: admin@mail.com
 Password: 123456
-```
-## Configuração de desenvolvimento
-
-Compilar em tempo real os arquivos .js e .vue
-
-```
-npm run watch
 ```
