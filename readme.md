@@ -6,7 +6,7 @@ Aplicação blog desenvolvida utilizando Laravel e VueJS
 
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local para fins de desenvolvimento e teste.
 
-### Pré-requisitos
+## Pré-requisitos
 
 O que você precisar instalar para rodar a aplicação
 
@@ -15,7 +15,7 @@ Composer
 Node.js
 ```
 
-### Instalação
+## Instalação
 
 Passos para rodar a aplicação
 
@@ -57,4 +57,19 @@ php artisan serve
 
 # Acessar o endereço 
 http://localhost:8000
+```
+## Login
+
+Usuário de teste
+
+```
+E-mail: admin@mail.com
+Password: 123456
+```
+## Configuração de desenvolvimento
+
+Compilar em tempo real os arquivos .js e .vue
+
+```
+npm run watch
 ```
