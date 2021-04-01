@@ -1,21 +1,21 @@
 # Blog
 
-Aplicação blog desenvolvida utilizando Laravel 5.5 e VueJS 2
+Uma aplicação blog com gestão de artigos, usuários (admins, autores e visitantes) e agendamento de publicações totalmente componentizada utilizando Laravel 5.5, VueJS 2 e Bootstrap 3.
 
-## Começando
+## Começando 🏃
 
-Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local para fins de desenvolvimento e teste.
+Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local.
 
-## Pré-requisitos
+## Pré-requisitos ⚠️
 
-O que você precisar instalar para rodar a aplicação
+O que você precisar para instalar a aplicação
 
 ```
 PHP 7.1.8 - 7.4.16
 Composer >= 1.4.2
 Node >= 8.6.0
 ```
-## Configuração do php
+### Configuração do php 🐘
 
 ```
 # Habilitar os recursos no php.ini
@@ -25,7 +25,7 @@ extension=pdo_sqlite
 extension_dir = "ext"
 ```
 
-## Instalação da aplicação
+## Instalação da aplicação 💻
 
 Passos para rodar a aplicação
 
@@ -68,7 +68,7 @@ php artisan serve
 # Acessar o endereço 
 http://localhost:8000
 ```
-## Login
+## Login 🛂
 
 Usuário de teste
 
