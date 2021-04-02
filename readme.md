@@ -76,3 +76,15 @@ Usuário de teste
 E-mail: admin@mail.com
 Password: 123456
 ```
+
+## Autor
+
+<a href="https://github.com/tarcisioaraujo">
+ <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E35AQFvMmYXx9EI7w/profile-framedphoto-shrink_200_200/0/1614359838849?e=1617480000&v=beta&t=zJdmMKRJbjYF9HseI8HmCvnPFrMu6P56saVWU8Wnitc" width="100px;" alt=""/>
+ <br />
+ <sub><b>Tarcísio Silva de Araújo</b></sub></a> <a href="https://github.com/tarcisioaraujo" title="GitHub"></a>
+
+Feito por Tarcísio Silva de Araújo 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Tarcísio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiosaraujo/)](https://www.linkedin.com/in/tarcisiosaraujo/) 
+[![Gmail Badge](https://img.shields.io/badge/-tarcisio.saraujo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.saraujo@gmail.com)](mailto:tarcisio.saraujo@gmail.com)
