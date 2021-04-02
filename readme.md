@@ -80,7 +80,7 @@ Password: 123456
 ## Autor
 
 <a href="https://github.com/tarcisioaraujo">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4E35AQFvMmYXx9EI7w/profile-framedphoto-shrink_200_200/0/1614359838849?e=1617480000&v=beta&t=zJdmMKRJbjYF9HseI8HmCvnPFrMu6P56saVWU8Wnitc" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47223046?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Tarcísio Silva de Araújo</b></sub></a> <a href="https://github.com/tarcisioaraujo" title="GitHub"></a>
 
