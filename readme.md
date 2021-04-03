@@ -19,6 +19,24 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 	<a href="#construction_worker-autor">Autor</a>
 </p>
 
+<p align="center">
+	<kbd>
+		<img alt="Login" title="#Login" width="360" height="230" style="border-radius: 5px" src="./assets/login.gif">
+	</kbd>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<kbd>
+		<img alt="Criando Artigo" title="#CriandoArtigo" width="360" height="230" style="border-radius: 5px" src="./assets/criando_artigo.gif">
+	</kbd>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<kbd>
+		<img alt="Criando Autor" title="#CriandoAutor" width="360" height="230" style="border-radius: 5px" src="./assets/criando_autor.gif">
+	</kbd>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<kbd>
+		<img alt="Ordenando por Coluna" title="#OrdenandoPorColuna" width="360" height="230" style="border-radius: 5px" src="./assets/ordenando_artigo_coluna_titulo_e_descricao.gif">
+	</kbd>	
+</p>
+
 ## :construction: Status do Projeto 
 
 <p align="center">
