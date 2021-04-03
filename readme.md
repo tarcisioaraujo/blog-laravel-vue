@@ -1,14 +1,37 @@
 <h1 align="center">Blog</h1>
 
-## 💻 Sobre o projeto
-
 Uma aplicação blog com gestão de artigos, usuários (admins, autores e visitantes) e agendamento de publicações totalmente componentizada utilizando Laravel 5.5, VueJS 2 e Bootstrap 3.
 
-## 🏃 Começando 
+<p align="center">
+	<a href="https://github.com/tarcisioaraujo/blog-laravel-vue/issues">
+		<img src="https://img.shields.io/github/issues/tarcisioaraujo/blog-laravel-vue?style=plastic" alt="Issues">
+	</a>	 
+</p>
+
+<p align="center">
+  <a href="#runner-comecando">Começando</a> •
+  <a href="#warning-pre-requisitos">Pré-requisitos</a>
+</p>
+
+## :construction: Status do Projeto 
+
+<p align="center">
+	<h4 align="center"> 
+		:construction:  Em construção...  :construction:
+	</h4>
+</p>
+
+## :white_check_mark: Features
+
+- [ ] Upload de imagem ilustrativa no artigo;
+- [ ] Melhorar layout dos CRUD's em dispositivos móveis;
+- [ ] Ordenar CRUD's por padrão pelo ID;
+
+## :runner: Começando 
 
 Essas instruções fornecerão uma cópia do projeto instalado e funcionando em sua máquina local.
 
-## ⚠️ Pré-requisitos 
+## :warning: Pré-requisitos 
 
 O que você precisar para instalar a aplicação
 
@@ -17,7 +40,7 @@ PHP 7.1.8 - 7.4.16
 Composer >= 1.4.2
 Node >= 8.6.0
 ```
-### 🐘 Configuração do php 
+### :elephant: Configuração do php 
 
 ```
 # Habilitar os recursos no php.ini
@@ -27,7 +50,7 @@ extension=pdo_sqlite
 extension_dir = "ext"
 ```
 
-## 🛠️ Instalação da aplicação
+## :hammer_and_wrench: Instalação da aplicação
 
 Passos para rodar a aplicação
 
@@ -70,7 +93,7 @@ php artisan serve
 # Acessar o endereço 
 http://localhost:8000
 ```
-## 🛂 Login 
+## :passport_control: Login 
 
 Usuário de teste
 
@@ -79,7 +102,7 @@ E-mail: admin@mail.com
 Password: 123456
 ```
 
-## 👦 Autor
+## :construction_worker: Autor
 
 <a href="https://github.com/tarcisioaraujo">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47223046?v=4" width="100px;" alt=""/>
