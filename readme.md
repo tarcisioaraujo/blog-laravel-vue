@@ -27,7 +27,7 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 	<kbd>
 		<img alt="Criando Artigo" title="#CriandoArtigo" width="360" height="230" style="border-radius: 5px" src="./assets/criando_artigo.gif">
 	</kbd>
-	&nbsp;&nbsp;&nbsp;&nbsp;
+	<br/><br/>
 	<kbd>
 		<img alt="Criando Autor" title="#CriandoAutor" width="360" height="230" style="border-radius: 5px" src="./assets/criando_autor.gif">
 	</kbd>
