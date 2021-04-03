@@ -9,8 +9,14 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 </p>
 
 <p align="center">
-  <a href="#runner-comecando">Começando</a> •
-  <a href="#warning-pre-requisitos">Pré-requisitos</a>
+	<a href="#construction-status-do-projeto">Status do Projeto</a> •
+	<a href="#white_check_mark-features">Features</a> •
+	<a href="#runner-começando">Começando</a> •
+	<a href="#warning-pré-requisitos">Pré-requisitos</a> •
+	<a href="#elephant-configuração-do-php">Configuração do php</a> •
+	<a href="#hammer_and_wrench-instalação">Instalação</a> •
+	<a href="#passport_control-login">Login</a> •
+	<a href="#construction_worker-autor">Autor</a>
 </p>
 
 ## :construction: Status do Projeto 
@@ -24,8 +30,6 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 ## :white_check_mark: Features
 
 - [ ] Upload de imagem ilustrativa no artigo;
-- [ ] Melhorar layout dos CRUD's em dispositivos móveis;
-- [ ] Ordenar CRUD's por padrão pelo ID;
 
 ## :runner: Começando 
 
@@ -50,7 +54,7 @@ extension=pdo_sqlite
 extension_dir = "ext"
 ```
 
-## :hammer_and_wrench: Instalação da aplicação
+## :hammer_and_wrench: Instalação
 
 Passos para rodar a aplicação
 
