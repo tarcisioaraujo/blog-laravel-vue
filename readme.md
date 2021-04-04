@@ -6,10 +6,7 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 	<a href="https://github.com/tarcisioaraujo/blog-laravel-vue/issues">
 		<img src="https://img.shields.io/github/issues/tarcisioaraujo/blog-laravel-vue?style=plastic" alt="Issues">
 	</a>	
-	<img src="https://img.shields.io/github/license/tarcisioaraujo/blog-laravel-vue" alt="License">
-		
-	
-	 
+	<img src="https://img.shields.io/github/license/tarcisioaraujo/blog-laravel-vue" alt="License">	 
 </p>
 
 <p align="center">
@@ -21,6 +18,7 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 	<a href="#hammer_and_wrench-instalação">Instalação</a> •
 	<a href="#passport_control-login">Login</a> •
 	<a href="#construction_worker-autor">Autor</a>
+	<a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -50,6 +48,10 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 
 ## :white_check_mark: Features
 
+- [x] Cadastro de artigos
+- [x] Cadastro de usuários
+- [x] Cadastro de autores
+- [x] Cadastro de administradores
 - [ ] Upload de imagem ilustrativa no artigo;
 
 ## :runner: Começando 
@@ -138,3 +140,7 @@ Feito por Tarcísio Silva de Araújo 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tarcísio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarcisiosaraujo/)](https://www.linkedin.com/in/tarcisiosaraujo/) 
 [![Gmail Badge](https://img.shields.io/badge/-tarcisio.saraujo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarcisio.saraujo@gmail.com)](mailto:tarcisio.saraujo@gmail.com)
+
+## :memo: Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE).
