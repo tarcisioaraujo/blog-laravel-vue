@@ -9,7 +9,7 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 </p>
 
 <p align="center">
-	<a href="#construction-status-do-projeto">Status do Projeto</a> •
+	<a href="#computer-tecnologias">Tecnologias</a> •	
 	<a href="#white_check_mark-features">Features</a> •
 	<a href="#runner-começando">Começando</a> •
 	<a href="#warning-pré-requisitos">Pré-requisitos</a> •
@@ -37,13 +37,12 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 	</kbd>	
 </p>
 
-## :construction: Status do Projeto 
+## :computer: Tecnologias 
 
-<p align="center">
-	<h4 align="center"> 
-		:construction:  Em construção...  :construction:
-	</h4>
-</p>
+- [Vue.js](https://br.vuejs.org/)
+- [Laravel](https://laravel.com/)
+- [PHP](https://www.php.net/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## :white_check_mark: Features
 
