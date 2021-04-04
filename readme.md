@@ -5,7 +5,11 @@ Uma aplicação blog com gestão de artigos, usuários (admins, autores e visita
 <p align="center">
 	<a href="https://github.com/tarcisioaraujo/blog-laravel-vue/issues">
 		<img src="https://img.shields.io/github/issues/tarcisioaraujo/blog-laravel-vue?style=plastic" alt="Issues">
-	</a>	 
+	</a>	
+	<img src="https://img.shields.io/github/license/tarcisioaraujo/blog-laravel-vue" alt="License">
+		
+	
+	 
 </p>
 
 <p align="center">
